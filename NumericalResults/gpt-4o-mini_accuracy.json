@@ -1,0 +1,188 @@
+{
+  "model": "gpt-4o-mini",
+  "overall_accuracy": 0.02666666666666667,
+  "total_correct": 8,
+  "total_trials": 300,
+  "per_prompt": {
+    "2024-I-1": {
+      "ground_truth": "204",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-10": {
+      "ground_truth": "113",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-11": {
+      "ground_truth": "371",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-12": {
+      "ground_truth": "385",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-13": {
+      "ground_truth": "110",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-14": {
+      "ground_truth": "104",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-15": {
+      "ground_truth": "721",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-2": {
+      "ground_truth": "25",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-3": {
+      "ground_truth": "809",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-4": {
+      "ground_truth": "116",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-5": {
+      "ground_truth": "104",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-6": {
+      "ground_truth": "294",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-7": {
+      "ground_truth": "540",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-8": {
+      "ground_truth": "197",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-I-9": {
+      "ground_truth": "480",
+      "correct": 1,
+      "trials": 10,
+      "accuracy": 0.1
+    },
+    "2024-II-1": {
+      "ground_truth": "73",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-II-10": {
+      "ground_truth": "468",
+      "correct": 6,
+      "trials": 10,
+      "accuracy": 0.6
+    },
+    "2024-II-11": {
+      "ground_truth": "601",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-II-12": {
+      "ground_truth": "23",
+      "correct": 1,
+      "trials": 10,
+      "accuracy": 0.1
+    },
+    "2024-II-13": {
+      "ground_truth": "321",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-II-14": {
+      "ground_truth": "211",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-II-15": {
+      "ground_truth": "315",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-II-2": {
+      "ground_truth": "236",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-II-3": {
+      "ground_truth": "45",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-II-4": {
+      "ground_truth": "33",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-II-5": {
+      "ground_truth": "80",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-II-6": {
+      "ground_truth": "55",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-II-7": {
+      "ground_truth": "699",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-II-8": {
+      "ground_truth": "127",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    },
+    "2024-II-9": {
+      "ground_truth": "902",
+      "correct": 0,
+      "trials": 10,
+      "accuracy": 0.0
+    }
+  }
+}
