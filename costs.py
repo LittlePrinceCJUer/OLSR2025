@@ -1,8 +1,15 @@
 # TODO: collect and fill in
 
+# Azure OpenAI (USD)
 COSTS = {
-    "gpt-4o-mini":      { },
-    "gpt4o":            { },
-    "gpt-o3":           { },
-    "gpt-o4-mini":      { },
+    "o3-mini": {
+        "input":  1.10,
+        "cached_input": 0.55,
+        "output": 4.40
+    },
+    "gpt-4o-mini": {
+        "input":  0.15,
+        "cached_input": 0.075,
+        "output": 0.60
+    }
 }
